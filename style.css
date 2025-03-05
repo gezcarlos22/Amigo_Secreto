@@ -58,7 +58,7 @@ body {
 
 /* Títulos */
 .main-title {
-    font-size: 80px;
+    font-size: 60px;
     font-family: "Merriweather", serif;
     font-weight: 900;
     font-style: italic;
@@ -156,7 +156,7 @@ ul {
 .result-list {
     margin-top: 15px;
     color: #05DF05;
-    font-size: 22px;
+    font-size: 35px;
     font-weight: bold;
     text-align: center;
 }
@@ -197,4 +197,47 @@ ul {
 img {
     max-width: 90%;
     max-height: auto;
+}
+
+@media (max-width: 1200px) {
+    .main-content {
+        flex-direction: column; 
+        gap: 30px;
+    }
+    
+    .header-banner {
+        flex: 0 0 60%;
+    }
+
+    .input-section {
+        flex: 0 0 40%;
+        border-radius: 64px 64px 0 0; 
+    }
+
+    .button-container{
+        flex-direction: column;
+        width: 450px; /* Ancho para pantallas de hasta 1200px */
+    }
+
+    .button-draw, .button-new-draw{
+        justify-content: center;
+    }
+
+
+    .main-title {
+        font-size: 50px;
+    }
+
+    /* Estilos específicos para pantallas de hasta 768px */
+    @media (max-width: 768px) {
+        .button-container{
+            width: 300px; 
+        }
+    }
+
+    @media (max-width: 350px) {
+        .main-title {
+            font-size: 40px;
+        }
+    }
 }
