@@ -2,6 +2,7 @@
 [Probar el Juego](https://gezcarlos22.github.io/Amigo_Secreto/)
 
 ![Captura de pantalla](https://github.com/gezcarlos22/Amigo_Secreto/blob/main/assets/proyecto.png)
+![Captura de pantalla](https://github.com/gezcarlos22/Amigo_Secreto/blob/main/assets/Proyecto%20celu.png)
 
 ## Descripción
 
