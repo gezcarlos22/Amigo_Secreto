@@ -2,7 +2,6 @@
 [Probar el Juego](https://gezcarlos22.github.io/Amigo_Secreto/)
 
 ![Captura de pantalla](https://github.com/gezcarlos22/Amigo_Secreto/blob/main/assets/proyecto.png)
-![Captura de pantalla](https://github.com/gezcarlos22/Amigo_Secreto/blob/main/assets/Proyecto%20celu.png)
 
 ## Descripción
 
@@ -29,3 +28,5 @@ Este proyecto es una aplicación web interactiva que permite realizar un sorteo 
 2.  Haz clic en el botón "Añadir" para agregar cada nombre a la lista.
 3.  Una vez que hayas ingresado todos los nombres, haz clic en el botón "Sortear amigo" para realizar el sorteo.
 5.  Los resultados del sorteo se mostrarán en la pantalla.
+
+![Captura de pantalla](https://github.com/gezcarlos22/Amigo_Secreto/blob/main/assets/Proyecto%20celu.png)
